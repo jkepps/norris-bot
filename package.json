@@ -4,7 +4,8 @@
   "description": "A bot that tells Chuck Norris jokes.",
   "main": "lib/norrisbot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/bot.js"
   },
   "repository": {
     "type": "git",
