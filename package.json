@@ -1,0 +1,24 @@
+{
+  "name": "norris-bot",
+  "version": "1.0.0",
+  "description": "A bot that tells Chuck Norris jokes.",
+  "main": "lib/norrisbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkepps/norris-bot.git"
+  },
+  "author": "Jordan Epps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkepps/norris-bot/issues"
+  },
+  "homepage": "https://github.com/jkepps/norris-bot#readme",
+  "dependencies": {
+    "slack-utils": "^0.3.0",
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.1"
+  }
+}
