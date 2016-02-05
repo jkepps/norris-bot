@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/jkepps/norris-bot#readme",
   "dependencies": {
-    "slack-utils": "^0.3.0",
     "slackbots": "^0.5.1",
     "sqlite3": "^3.1.1"
   }
